@@ -1,0 +1,8 @@
+name: fundamental-energy
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - ipympl
